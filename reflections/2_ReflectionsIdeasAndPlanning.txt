@@ -1,0 +1,21 @@
+1. New Ideas:
+	- identification app (flowers, birds)
+	- price comparing app
+	- finds certain types of food nearby
+	- augmented reality app to leave marks
+	- skillshare app
+	- nutrition/meal planning app
+	- crytocurrency app
+	- all-in-one app (all clothing/shoe releases)
+	- penpal app
+	- jam session app
+	- bill splitting app
+
+2. In my opinion, the best and cleanest way to monetize an app is to create a full and lite version of the app. The tricky part about that is making sure the lite app isn't too cluttered with ads for the full app. A clean UI/UX
+will be much more likely to win over users.
+
+3. I just bought a phone through the Google store. It was a very clean UI/UX. It brought your attention quickly to
+the correct spots and fill out forms and info was snappy and easy. There were no sidebars or popups.
+
+4. I believe that a store mapping app would be very interesting to create. That being said, talking to fellow classmates, I discovered the reason store maps don't exist is because grocery stores want to encourage wandering so the customer is more likely to buy products they weren't there for initially.
+
